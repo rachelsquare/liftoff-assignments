@@ -9,7 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-![Homepage Wireframe] (C:\Users\raskwerer\OneDrive\Web Projects\Good Sense, LLC\Wireframes)
+![About Wireframe](Good_Sense_About.PNG)
+![Home Wireframe](Good_Sense_Home.PNG)
+![Shop Wireframe](Good_Sense_Shop.PNG)
+![Product Wireframe](Product_Page.PNG)
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
